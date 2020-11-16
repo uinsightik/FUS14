@@ -12,3 +12,12 @@
 - rmdir
 - rm
 - mv
+
+## Git
+- 초기환경 설정
+  - git config --global user.name uinsightik
+  - git config --global user.email uppermost91@gmail.com
+- git init
+- git status
+- git add
+- git commit -m
